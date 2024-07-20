@@ -32,6 +32,6 @@ Open part_2_mars_weather.ipynb and complete the following tasks:
   - Estimate of terrestrial days in a Martian year based on temperature data
 - Visualize insights using bar charts.
 - Export the final DataFrame to a CSV file.
-- 
+  
 Conclusion
 By completing this project, you will strengthen your skills in web scraping, data manipulation, and visualization, specifically in the context of Mars exploration data. Feel free to explore additional analyses or visualizations beyond the outlined tasks to deepen your understanding.
